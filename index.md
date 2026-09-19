@@ -8,12 +8,16 @@ Small, carefully made apps for Wear OS.
 
 <img src="a11-field/img/icon.png" alt="A-11 Field icon" width="96" align="left" style="margin-right:16px;border-radius:18px;">
 
-A watch face for Wear OS in the style of the **A-11**, the WWII-era U.S.
-military field watch — built to a government specification rather than one
-brand's design, and often called "the watch that won the war." It brings that
-clean, legible, no-nonsense dial to your wrist: a high-contrast face, bold
-Arabic numerals, a full minute track with numbered five-minute markers, a center
-**sweep seconds** hand, and slim tapering "alpha" hands.
+This watch face is inspired by the A-11 watch issued by the US military during
+World War II. A-11 watches were manufactured by Bulova, Elgin, and Waltham from
+a military spec and issued to service members. It is often called "the watch that
+won the war." It brings that clean, legible, no-nonsense dial to your Wear OS
+watch.
+
+The A-11 was built to a government specification but had variations in
+manufacturing, so this face captures the details those watches shared: a
+high-contrast dial, bold Arabic numerals, a full minute track with numbered
+five-minute markers, a center sweep seconds hand, and slim tapered hands.
 
 <br clear="left">
 
@@ -33,8 +37,6 @@ built with the Watch Face Format for efficient, battery-friendly performance.
 <!-- TODO: replace with the public Play Store listing URL at launch.
      A-11 Field is currently in closed testing; there is no public link yet. -->
 _Coming soon to Google Play._
-
-[Privacy policy](a11-field/privacy)
 
 ---
 
