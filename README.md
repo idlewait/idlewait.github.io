@@ -1,14 +1,24 @@
-# idlewait
+# idlewait.github.io
 
-Public site for idlewait apps — hosts privacy-policy pages (via GitHub Pages)
-for use in app store listings. No source code.
+Source for the idlewait website (<https://idlewait.io>), served with GitHub
+Pages from the repository root on the `main` branch. This file is developer
+notes; the public site is `index.md`.
 
-## Policies
+## Structure
 
-- **A-11 Field** (Wear OS watch face) — <https://idlewait.github.io/a11-field/privacy>
+- `index.md` — the home page (rendered at the site root).
+- `<app>/privacy.md` — each app's privacy policy, reachable at
+  `https://idlewait.io/<app>/privacy` (e.g. `a11-field/privacy`).
+- `<app>/img/` — images used by the site for that app.
+- `CNAME` — custom domain (`idlewait.io`).
 
-## Hosting
+## Apps
 
-Served with GitHub Pages from the repository root (`main` branch). Each app's
-policy lives under `<app>/privacy.md` and is reachable at
-`https://idlewait.github.io/<app>/privacy`.
+- **A-11 Field** (Wear OS watch face) — policy at
+  <https://idlewait.io/a11-field/privacy>.
+
+## Notes
+
+- No source code lives here; app source is in each app's own repository.
+- GitHub Pages prefers `index.md` over `README.md` for the site root, so this
+  README is not published as a page.
