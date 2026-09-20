@@ -34,8 +34,6 @@ Six looks in all, from a pristine new field watch to a well-worn vintage piece.
 No ads, no trackers, and no permissions — it simply shows the time, and it is
 built with the Watch Face Format for efficient, battery-friendly performance.
 
-<!-- TODO: replace with the public Play Store listing URL at launch.
-     A-11 Field is currently in closed testing; there is no public link yet. -->
 _Coming soon to Google Play._
 
 ---
@@ -43,9 +41,8 @@ _Coming soon to Google Play._
 ## About
 
 idlewait makes small, focused apps — the kind that do one thing well and stay
-out of the way. Everything here is built to be private by default: no accounts,
-no tracking, no data collection.
+out of the way. 
 
 ## Contact
 
-Questions or feedback: [scottyfred@gmail.com](mailto:scottyfred@gmail.com)
+Questions or feedback: [contact@idlewait.io](mailto:contact@idlewait.io)
